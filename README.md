@@ -1,4 +1,4 @@
-# android-beans-demo
+# AgroTricorder
 
 ## Demo Step 1:
 
